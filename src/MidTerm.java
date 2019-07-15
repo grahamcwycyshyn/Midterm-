@@ -1,7 +1,7 @@
 
 public class MidTerm {
 	public static void main(String[] args) {
-		System.out.println("Once upon a time in the mystical land of Shangrila there dwelt an immortal named David and his trusty band of ninja students.");
+		System.out.println("Once upon a time in the mystical land of Detroit there dwelt an immortal named David and his trusty band of ninja students.");
 		System.out.println("They were very clever students indeed, "
 							+ "known for their ingenious teamwork.");
 		System.out.println("One fateful day, the nefarious Tai-Lung came to their peaceful land.");
