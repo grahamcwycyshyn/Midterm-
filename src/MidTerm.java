@@ -9,5 +9,6 @@ public class MidTerm {
 		System.out.println("But woe, Tai-Lung had come with his terrible army of scorpions!");
 		System.out.println("STING! The scorpoins attacked.");
 		System.out.println("The students were frightened! They had only one choice- name a warrior to read the Dragon Scroll and learn the ancient secrets of Kung-Fu!");
+
 	}
 }
