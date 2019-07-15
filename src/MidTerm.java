@@ -8,5 +8,6 @@ public class MidTerm {
 		System.out.println("One fateful day, the nefarious Tai-Lung came to their peaceful land.");
 		System.out.println("The monkeys were unperterbed by his evil presence, as they had trust in the power in numbers.");
 		System.out.println("But woe, Tai-Lung had come with his terrible army of scorpions!");
+		System.out.println("STING! ZING! The scorpoins attacked.");
 	}
 }
